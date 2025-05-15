@@ -75,6 +75,12 @@ PowerShell スクリプト 1 本でセットアップから接続、履歴管理
 * `C:\terminalSSH` フォルダを削除
 * Windows Terminal の設定から `EasySSH` プロファイルを削除
 
+## 注意事項
+
+* 本ツールの利用は**自己責任**でお願いします。
+* インストールスクリプトは予期せぬ不具合が発生する場合があります。
+  実行前に必ず内容を確認し、**必要に応じバックアップを取得**してください。
+
 ## ライセンス
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
